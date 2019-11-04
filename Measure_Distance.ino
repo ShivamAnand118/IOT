@@ -13,7 +13,7 @@
 #define DEVICE_ID "SONAR"
 #define TOKEN "6w@P_@eWOccUI?(y&a"
 #define WIFI_AP "Acer"
-#define WIFI_PASSWORD "Moin786ahamad@"
+#define WIFI_PASSWORD "Shiv1703Anand@"
 // Defines Tirg and Echo pins of the Ultrasonic Sensor
 WiFiEspClient espClient;
 
